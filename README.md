@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[//]: # (https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohli&theme=dark&layout=compact&langs_count=4&hide=CMake,c%2B%2B,Ruby,C,Objective-C)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohli&show_icons=true&theme=dark&custom_title=Open%20Source%20Contributions&include_all_commits=true)
+
 <!--
 **nohli/nohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
