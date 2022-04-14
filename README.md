@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohli&show_icons=true&theme=vue&custom_title=Open%20Source%20Contributions&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohli&show_icons=true&theme=vue&custom_title=Open%20Source%20Contributions&include_all_commits=true&hide=contribs)
 
 <!--
 **nohli/nohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
